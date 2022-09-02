@@ -1,4 +1,4 @@
-# cyclistic_bike_share
+## Introducation
 Capstone project for Google Data Analytics Professional Course. 
 
 The case study is about a Bike Share Company which wants to increase their bussiness by converting Regular cusomters to Annual Memebers. 
@@ -10,4 +10,10 @@ Dataset is uploaded by the company on an open website. Datasets includes all the
 Excel and SQL has been used to do Data Processing and Data Manipulation. 
 
 Tableau has been used to do Data Visualisation.
+
+##Dataset
+Using the 12 months of data of Cyclistic bike share app. 
+The data was produced by the company and stored in an open data source website. Hence, data is publicly available and is reliable.
+
+
 
