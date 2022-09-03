@@ -1,4 +1,4 @@
-#Summary
+# Summary
 ## Introducation
 Capstone project for Google Data Analytics Professional Course. 
 
