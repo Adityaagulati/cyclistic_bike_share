@@ -12,7 +12,7 @@ Tableau has been used to do Data Visualisation.
 Using the 12 months of data of Cyclistic bike share app. 
 The data is officillay made released by the company and located on an open website. Find the data here. \
 Excel and SQL were used for Data Manipulation and Data Processing. \
-Pivot tables was used to get the general idea of diffrent trends and patterns in the dataset.[Detailed](Analysis.pdf) \
+Pivot tables was used to get the general idea of diffrent trends and patterns in the dataset.[Analysis Detailed](Analysis.pdf) \
 These patterns and treds were used to concluded the findings from the dataset.
 
 ## Viz
