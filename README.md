@@ -16,7 +16,7 @@ Pivot tables was used to get the general idea of diffrent trends and patterns in
 These patterns and treds were used to concluded the findings from the dataset.
 
 ## Viz
-After finalizing the findings, data was transfromed to Tableau. Different charts and graphs were used to show the findings more visually. [Find the Viz here](https://public.tableau.com/views/Case_Study_Cyclist_16628828125170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+After finalizing the findings, data was transfromed to Tableau. Different charts and graphs were used to show the findings more visually. [Find the Viz here](https://public.tableau.com/views/Case_Study_Cyclist_16628828125170/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion 
 After looking at the all the findings the conclusion is Member users use the Cyclist app majority for the daily commute whereas Casual users use it for more leisure. 
